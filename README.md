@@ -1,3 +1,2 @@
-name:pranjali
-
-quiz created to know India 
+QUIZ
+To know India
