@@ -1,3 +1,3 @@
 name:pranjali
-interest:webdevelopment
-skills:c,c++
+
+quiz created to know India 
